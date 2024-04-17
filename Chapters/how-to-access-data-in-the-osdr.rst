@@ -19,7 +19,7 @@ Access data in the OSDR
 
 .. raw:: html
 
-   <figure><img src="Chapters/.gitbook/assets/Slide3 (2).png" alt="image showing what the button for the Data Repository Explorer looks like" width="375"><figcaption><p><a href="https://osdr.nasa.gov/bio/repo/search?q=&#x26;data_source=cgene,alsda&#x26;data_type=study"><em>or click on the Data Repository Explore Image</em></a> </p></figcaption></figure>
+   <figure><img src=".gitbook/assets/Slide3 (2).png" alt="image showing what the button for the Data Repository Explorer looks like" width="375"><figcaption><p><a href="https://osdr.nasa.gov/bio/repo/search?q=&#x26;data_source=cgene,alsda&#x26;data_type=study"><em>or click on the Data Repository Explore Image</em></a> </p></figcaption></figure>
 
 
 

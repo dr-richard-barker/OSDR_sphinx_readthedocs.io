@@ -2,7 +2,7 @@
 Welcome to your Jupyter Book
 ============================
 
-```{# Table of contents
+``` Table of contents
 
 
 * `NASA OSDR home page <nasa-osdr-home-page.md>`_
