@@ -1,13 +1,10 @@
 
 ----
 
-description: NBISC at Ames Research Center
-------------------------------------------
-
 NASA Biological Institutional Scientific Collection (NBISC)
 ===========================================================
 
-#
+
 =
 
 What Biospecimens and Materials are available?

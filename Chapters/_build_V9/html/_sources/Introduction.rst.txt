@@ -1,8 +1,6 @@
 
 ----
 
-description: This document introduces the NASA Open Science Data Repository (OSDR).
------------------------------------------------------------------------------------
 
 Open Science Data Repository (OSDR) Tutorial Introduction
 =========================================================

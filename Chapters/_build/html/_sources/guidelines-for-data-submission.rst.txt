@@ -3,8 +3,6 @@
 
 
 ----
-
-description: >-
   If you have any questions during the data submission process, please contact
 
   the OSDR Curation team at arc-dl-osdr-data@mail.nasa.gov .
@@ -98,7 +96,7 @@ Instruction on how to create a NASA Guest account to access the BDME :raw-html-m
    <figure><img src=".gitbook/assets/Slide68.png" alt="Screenshot showing the login or register account options that provide access to the OSDR submission portal. A yellow arrow highlights the sign up window that will open to help you create a new account. This will then launch the Guest Account Services window that will prompt the user to provide a password before creating an account."><figcaption><p><em>Screenshot showing the login or register account options that provide access to the OSDR submission portal. A yellow arrow highlights the sign-up window that will open to help you create a new account. This will then launch the Guest Account Services window that will prompt the user to provide a password before creating an account.</em></p></figcaption></figure>
 
 
-#
+
 -
 
 OSDR submission console
