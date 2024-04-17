@@ -4,6 +4,9 @@
 
 ----
 
+The OSDR contains data from the Space Biology research community.
+-----------------------------
+
 Access data in the OSDR
 =======================
 
