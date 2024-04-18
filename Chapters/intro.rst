@@ -15,5 +15,5 @@ Welcome to your Jupyter Book
 * `OSDR Public API <osdr-public-api.md>`_
 * `NASA Biological Institutional Scientific Collection (NBISC) <nasa-biological-institutional-scientific-collection-nbisc.md>`_
 * `Open Science Abbreviations <open-science-abbreviations.md>`_
-* `notebooks <notebooks.ipynb>`_\ }
+* `notebooks <notebooks.ipynb>`_\ 
   ```
