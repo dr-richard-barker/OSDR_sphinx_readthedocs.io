@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: Introduction
 - file: nasa-osdr-home-page
 - file: how-to-access-data-in-the-osdr
 - file: guidelines-for-data-submission
