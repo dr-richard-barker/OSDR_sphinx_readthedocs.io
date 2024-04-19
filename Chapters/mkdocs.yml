@@ -1,5 +1,5 @@
 site_name: OSDR tutorial 
-theme:
+theme: sphinx
   name: Richard Barker
   highlightjs: true
 plugins:
