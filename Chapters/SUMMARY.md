@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Open Science Data Repository (OSDR) Tutorial Introduction](README.md)
+* [OSDR home page](Introduction.md)
 * [NASA OSDR home page](nasa-osdr-home-page.md)
 * [Access data in the OSDR](how-to-access-data-in-the-osdr.md)
 * [Data Submission Guide](guidelines-for-data-submission.md)

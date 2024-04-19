@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
+project = "OSDR Tutorial"
 copyright = "2024, creative commons 1.0"
 author = "2024, Richard Barker and OSDR team"
 

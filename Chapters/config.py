@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Open Science Data Repository Tutorial"
-copyright = "2024"
+project = "OSDR Tutorial"
+copyright = "2024, creative commons 1.0"
 author = "Richard Barker"
 
 

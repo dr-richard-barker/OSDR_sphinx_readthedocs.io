@@ -4,9 +4,8 @@ Welcome to your Jupyter Book
 
 ``` Table of contents
 
-
-* `NASA OSDR home page <nasa-osdr-home-page.md>`_
 * `Open Science Data Repository (OSDR) Tutorial Introduction <README.md>`_
+* `NASA OSDR home page <nasa-osdr-home-page.md>`_
 * `Access data in the OSDR <how-to-access-data-in-the-osdr.md>`_
 * `Data Submission Guide <guidelines-for-data-submission.md>`_
 * `OSDR Data Visualization Portal <osdr-data-visualization-portal.md>`_

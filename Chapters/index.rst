@@ -18,7 +18,9 @@ Contents
 .. toctree::
 
    Home <self>
+   Intro
    README
+   Introduction
    how-to-access-data-in-the-osdr
    guidelines-for-data-submission
    osdr-public-api
@@ -27,5 +29,4 @@ Contents
    radlab-overview
    nasa-biological-institutional-scientific-collection-nbisc
    open-science-abbreviations
-   notebooks
    SUMMARY
