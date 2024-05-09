@@ -18,6 +18,9 @@ $ m2r2 *.md
 m2r2 nasa-osdr-home-page.md
 
 sphinx-build -M html . _build/
+sphinx-build -M html . _build_18/
+sphinx-build -M html . _build_19/
+sphinx-build -M html . _build_20/
 
 Add .md files ? 
 pip install myst-parser

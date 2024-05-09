@@ -1,23 +1,21 @@
 <!DOCTYPE html>
-<html class="writer-html5" lang="en" data-content_root="./">
+<html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Access data in the OSDR &mdash; OSDR Tutorial  documentation</title>
-      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=80d5e7a1" />
-      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=19f00094" />
-
-  
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <!--[if lt IE 9]>
     <script src="_static/js/html5shiv.min.js"></script>
   <![endif]-->
   
-        <script src="_static/jquery.js?v=5d32c60e"></script>
-        <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-        <script src="_static/documentation_options.js?v=5929fcd5"></script>
-        <script src="_static/doctools.js?v=9a2dae69"></script>
-        <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="_static/doctools.js"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -30,15 +28,11 @@
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
         <div class="wy-side-nav-search" >
-
-          
-          
-          <a href="index.html" class="icon icon-home">
-            OSDR Tutorial
+            <a href="index.html" class="icon icon-home"> OSDR Tutorial
           </a>
 <div role="search">
   <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="text" name="q" placeholder="Search docs" />
     <input type="hidden" name="check_keywords" value="yes" />
     <input type="hidden" name="area" value="default" />
   </form>
@@ -51,6 +45,11 @@
 <li class="toctree-l2"><a class="reference internal" href="#search-bar-a-href-iu61uhqypy1m-id-iu61uhqypy1m-a">Search Bar <span class="raw-html-m2r"><a href="#iu61uhqypy1m" id="iu61uhqypy1m"></a></span></a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#single-word-search-a-href-f4y457hcuqrc-id-f4y457hcuqrc-a">Single-word search <span class="raw-html-m2r"><a href="#f4y457hcuqrc" id="f4y457hcuqrc"></a></span></a></li>
 <li class="toctree-l3"><a class="reference internal" href="#multi-word-search-a-href-u3geep5fcd5d-id-u3geep5fcd5d-a">Multi-word search <span class="raw-html-m2r"><a href="#u3geep5fcd5d" id="u3geep5fcd5d"></a></span></a></li>
+<<<<<<< HEAD
+<li class="toctree-l3"><a class="reference internal" href="#x20-a-href-yo5jgk217hqz-id-yo5jgk217hqz-a">&amp;#x20;<span class="raw-html-m2r"><a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a></span></a></li>
+=======
+<li class="toctree-l3"><a class="reference internal" href="#a-href-yo5jgk217hqz-id-yo5jgk217hqz-a"><span class="raw-html-m2r"><a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a></span></a></li>
+>>>>>>> 93e1495 (Massive upgrade to version 24)
 <li class="toctree-l3"><a class="reference internal" href="#multiple-field-searches-a-href-yo5jgk217hqz-id-yo5jgk217hqz-a">Multiple-field searches <span class="raw-html-m2r"><a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a></span></a></li>
 </ul>
 </li>
@@ -60,9 +59,10 @@
 <li class="toctree-l3"><a class="reference internal" href="#boolean-wild-card-operator-a-href-v28y5ignyqya-id-v28y5ignyqya-a">Boolean * wild card operator. <span class="raw-html-m2r"><a href="#v28y5ignyqya" id="v28y5ignyqya"></a></span></a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="#a-href-alw6ircy431n-id-alw6ircy431n-a"><span class="raw-html-m2r"><a href="#alw6ircy431n" id="alw6ircy431n"></a></span></a></li>
 <li class="toctree-l2"><a class="reference internal" href="#federating-data-sources-a-href-id-86tmuz33uzle-id-id-86tmuz33uzle-a">Federating data sources <span class="raw-html-m2r"><a href="#id-86tmuz33uzle" id="id-86tmuz33uzle"></a></span></a></li>
 <li class="toctree-l2"><a class="reference internal" href="#study-search-filters-a-href-id-5dnlxovdz6up-id-id-5dnlxovdz6up-a">Study Search Filters <span class="raw-html-m2r"><a href="#id-5dnlxovdz6up" id="id-5dnlxovdz6up"></a></span></a></li>
-<li class="toctree-l2"><a class="reference internal" href="#x20-a-href-n2cdxvmjoiy1-id-n2cdxvmjoiy1-a">&amp;#x20;<span class="raw-html-m2r"><a href="#n2cdxvmjoiy1" id="n2cdxvmjoiy1"></a></span></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#a-href-n2cdxvmjoiy1-id-n2cdxvmjoiy1-a"><span class="raw-html-m2r"><a href="#n2cdxvmjoiy1" id="n2cdxvmjoiy1"></a></span></a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="guidelines-for-data-submission.html">Data Submission Guide</a></li>
@@ -73,7 +73,6 @@
 <li class="toctree-l1"><a class="reference internal" href="nasa-biological-institutional-scientific-collection-nbisc.html">NASA Biological Institutional Scientific Collection (NBISC)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="open-science-abbreviations.html">Open Science Abbreviations</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SUMMARY.html">Table of contents</a></li>
-<li class="toctree-l1"><a class="reference internal" href="README.html">OSDR_readthedocs</a></li>
 </ul>
 
         </div>
@@ -89,8 +88,8 @@
         <div class="rst-content">
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
-      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
-      <li class="breadcrumb-item active">Access data in the OSDR</li>
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Access data in the OSDR</li>
       <li class="wy-breadcrumbs-aside">
             <a href="_sources/how-to-access-data-in-the-osdr.rst.txt" rel="nofollow"> View page source</a>
       </li>
@@ -100,15 +99,13 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <hr class="docutils" />
-<hr class="docutils" />
-<section id="access-data-in-the-osdr">
-<h1>Access data in the OSDR<a class="headerlink" href="#access-data-in-the-osdr" title="Link to this heading"></a></h1>
+  <section id="access-data-in-the-osdr">
+<h1>Access data in the OSDR<a class="headerlink" href="#access-data-in-the-osdr" title="Permalink to this heading"></a></h1>
 <ol class="arabic simple">
 <li><p>Go to the <strong>NASA OSDR</strong> <a class="reference external" href="https://osdr.nasa.gov/bio/index.html">home page</a>.</p></li>
 <li><p>Click on the <strong>“Data &amp; Tools”</strong> tab at the top of the page</p></li>
 </ol>
-<p><em>or click on the</em> <a class="reference external" href="https://osdr.nasa.gov/bio/repo/search?q=&amp;data_source=cgene,alsda&amp;data_type=study">*Data Repository Explo*</a><em>re Image</em>&amp;#x20;</p>
+<p><em>or click on the</em> <a class="reference external" href="https://osdr.nasa.gov/bio/repo/search?q=&amp;data_source=cgene,alsda&amp;data_type=study">*Data Repository Explo*</a><em>re Image</em></p>
 <figure><img src=".gitbook/assets/Slide3 (2).png" alt="image showing what the button for the Data Repository Explorer looks like" width="375"><figcaption><p><a href="https://osdr.nasa.gov/bio/repo/search?q=&#x26;data_source=cgene,alsda&#x26;data_type=study"><em>or click on the Data Repository Explore Image</em></a> </p></figcaption></figure><ol class="arabic simple">
 <li><p>Select <a class="reference external" href="https://osdr.nasa.gov/bio/repo/search?q=&amp;data_source=cgene,alsda&amp;data_type=study">**“Data Repository”**</a> to navigate to the list of studies (<a class="reference external" href="https://osdr.nasa.gov/bio/repo/search?q=&amp;data_source=cgene,alsda&amp;data_type=study">Or use this link</a>).</p></li>
 <li><p>Search for studies by entering text into the <strong>“Search Datasets”</strong> box.</p></li>
@@ -136,7 +133,7 @@
 </li>
 </ol>
 <section id="search-bar-a-href-iu61uhqypy1m-id-iu61uhqypy1m-a">
-<h2>Search Bar <span class="raw-html-m2r"><a href="#iu61uhqypy1m" id="iu61uhqypy1m"></a></span><a class="headerlink" href="#search-bar-a-href-iu61uhqypy1m-id-iu61uhqypy1m-a" title="Link to this heading"></a></h2>
+<h2>Search Bar <span class="raw-html-m2r"><a href="#iu61uhqypy1m" id="iu61uhqypy1m"></a></span><a class="headerlink" href="#search-bar-a-href-iu61uhqypy1m-id-iu61uhqypy1m-a" title="Permalink to this heading"></a></h2>
 <p><strong>The search bar is a quick and easy way to filter through the data and can be used to create precise database queries.</strong></p>
 <p><strong>OSDR provides users with a full-text search capability of the metadata for all datasets.</strong></p>
 <p>Full-text search terms can be a single word or multiple words with either Boolean, wildcards (asterisks <a href="#id1"><span class="problematic" id="id2">*</span></a>), or string (text).</p>
@@ -149,7 +146,7 @@
 </li>
 </ul>
 <figure><img src=".gitbook/assets/Slide9.png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page, the “Search Datasets” box has been highlighted."><figcaption><p><em>The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page, the “Search Datasets” box has been highlighted.</em></p></figcaption></figure><section id="single-word-search-a-href-f4y457hcuqrc-id-f4y457hcuqrc-a">
-<h3>Single-word search <span class="raw-html-m2r"><a href="#f4y457hcuqrc" id="f4y457hcuqrc"></a></span><a class="headerlink" href="#single-word-search-a-href-f4y457hcuqrc-id-f4y457hcuqrc-a" title="Link to this heading"></a></h3>
+<h3>Single-word search <span class="raw-html-m2r"><a href="#f4y457hcuqrc" id="f4y457hcuqrc"></a></span><a class="headerlink" href="#single-word-search-a-href-f4y457hcuqrc-id-f4y457hcuqrc-a" title="Permalink to this heading"></a></h3>
 <p><strong>Below are some examples of searches.</strong></p>
 <ul class="simple">
 <li><p><strong>Single-term search:</strong> These are quick and easy and usually create long lists of loosely connected studies.</p>
@@ -160,7 +157,7 @@
 </ul>
 </section>
 <section id="multi-word-search-a-href-u3geep5fcd5d-id-u3geep5fcd5d-a">
-<h3>Multi-word search <span class="raw-html-m2r"><a href="#u3geep5fcd5d" id="u3geep5fcd5d"></a></span><a class="headerlink" href="#multi-word-search-a-href-u3geep5fcd5d-id-u3geep5fcd5d-a" title="Link to this heading"></a></h3>
+<h3>Multi-word search <span class="raw-html-m2r"><a href="#u3geep5fcd5d" id="u3geep5fcd5d"></a></span><a class="headerlink" href="#multi-word-search-a-href-u3geep5fcd5d-id-u3geep5fcd5d-a" title="Permalink to this heading"></a></h3>
 <p><strong>Choosing two or more keywords can quickly identify studies related to your area of interest.</strong></p>
 <ul class="simple">
 <li><p>Search results will contain all the search terms and in this example, filter down to 14 OSDR accessions.</p>
@@ -170,10 +167,16 @@
 </li>
 </ul>
 <figure><img src=".gitbook/assets/Slide13 (2).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. This search identifies 14 studies that use these terms in their metadata."><figcaption><p>The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. This search identifies 14 studies that use these terms in their metadata.</p></figcaption></figure></section>
+<<<<<<< HEAD
 <section id="x20-a-href-yo5jgk217hqz-id-yo5jgk217hqz-a">
+<h3>&amp;#x20;<span class="raw-html-m2r"><a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a></span><a class="headerlink" href="#x20-a-href-yo5jgk217hqz-id-yo5jgk217hqz-a" title="Link to this heading"></a></h3>
+=======
+<section id="a-href-yo5jgk217hqz-id-yo5jgk217hqz-a">
+<h3><span class="raw-html-m2r"><a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a></span><a class="headerlink" href="#a-href-yo5jgk217hqz-id-yo5jgk217hqz-a" title="Permalink to this heading"></a></h3>
+>>>>>>> 93e1495 (Massive upgrade to version 24)
 </section>
 <section id="multiple-field-searches-a-href-yo5jgk217hqz-id-yo5jgk217hqz-a">
-<h3>Multiple-field searches <span class="raw-html-m2r"><a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a></span><a class="headerlink" href="#multiple-field-searches-a-href-yo5jgk217hqz-id-yo5jgk217hqz-a" title="Link to this heading"></a></h3>
+<h3>Multiple-field searches <span class="raw-html-m2r"><a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a></span><a class="headerlink" href="#multiple-field-searches-a-href-yo5jgk217hqz-id-yo5jgk217hqz-a" title="Permalink to this heading"></a></h3>
 <p><strong>How to create efficient searches by searching multiple fields.</strong></p>
 <p><strong>Multiple-term search:</strong> Search in multiple files such as general search filters, study search filters and keywords or phrases can be used to create concise lists of related studies.</p>
 <ul class="simple">
@@ -182,7 +185,7 @@
 <figure><img src=".gitbook/assets/Slide15.png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. In addition, the “Space flight” has been selected as a factor and is highlighted with a red box. This search identifies 4 studies that use these terms in their metadata."><figcaption><p><em>The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. In addition, the “Space flight” has been selected as a factor and is highlighted with a red box. This search identifies 4 studies that use these terms in their metadata but only the first 3 are shown.</em></p></figcaption></figure></section>
 </section>
 <section id="boolean-operator-options-a-href-l33m3u35t1a7-id-l33m3u35t1a7-a">
-<h2>Boolean Operator Options <span class="raw-html-m2r"><a href="#l33m3u35t1a7" id="l33m3u35t1a7"></a></span><a class="headerlink" href="#boolean-operator-options-a-href-l33m3u35t1a7-id-l33m3u35t1a7-a" title="Link to this heading"></a></h2>
+<h2>Boolean Operator Options <span class="raw-html-m2r"><a href="#l33m3u35t1a7" id="l33m3u35t1a7"></a></span><a class="headerlink" href="#boolean-operator-options-a-href-l33m3u35t1a7-id-l33m3u35t1a7-a" title="Permalink to this heading"></a></h2>
 <p><strong>How to make your search more insightful or precise using defined boolean operators.</strong></p>
 <p>Please note that you may not use both the Boolean operators and double quotations together.</p>
 <p>The resulting set is the same as searching for the terms ‘genome’ and ‘ecotype without the operator.</p>
@@ -190,12 +193,12 @@
 <ul class="simple">
 <li><p>If multiple words are in double quotations, then those words must match exactly in the order given, as shown below:</p>
 <ul>
-<li><p><strong>Quotation example:</strong> Search results from searching the exact term “genome ecotype” by using quotation marks. In this example, no search results were due to a combination of keywords and Boolean operators that failed to match any sample in the database.&amp;#x20;</p></li>
+<li><p><strong>Quotation example:</strong> Search results from searching the exact term “genome ecotype” by using quotation marks. In this example, no search results were due to a combination of keywords and Boolean operators that failed to match any sample in the database.</p></li>
 </ul>
 </li>
 </ul>
 <figure><img src=".gitbook/assets/Slide14 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered, this time in quotation marks. This search resulted in no matches being found.  "><figcaption><p><em>The left-hand side of the webpage contains the "genotype ecotype" search results. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered, this time in quotation marks. This search resulted in no matches being found.</em> </p></figcaption></figure><section id="boolean-not-operator-a-href-w4aeta4y960m-id-w4aeta4y960m-a">
-<h3>Boolean NOT operator. <span class="raw-html-m2r"><a href="#w4aeta4y960m" id="w4aeta4y960m"></a></span><a class="headerlink" href="#boolean-not-operator-a-href-w4aeta4y960m-id-w4aeta4y960m-a" title="Link to this heading"></a></h3>
+<h3>Boolean NOT operator. <span class="raw-html-m2r"><a href="#w4aeta4y960m" id="w4aeta4y960m"></a></span><a class="headerlink" href="#boolean-not-operator-a-href-w4aeta4y960m-id-w4aeta4y960m-a" title="Permalink to this heading"></a></h3>
 <p><strong>Refining search techniques to identify related studies.</strong></p>
 <ul class="simple">
 <li><p>Exclude studies containing the term(s) from your search using the minus prefix (-). This is the same as using the NOT operator which is the same as using the NOT operator.</p>
@@ -206,7 +209,7 @@
 </ul>
 <figure><img src=".gitbook/assets/Slide16 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results."><figcaption><p><em>The left-hand side of the webpage contains the "genoe ecotype - genotypes" search results. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results.</em></p></figcaption></figure></section>
 <section id="boolean-and-operator-a-href-c7u6se40fjeh-id-c7u6se40fjeh-a">
-<h3>Boolean AND operator. <span class="raw-html-m2r"><a href="#c7u6se40fjeh" id="c7u6se40fjeh"></a></span><a class="headerlink" href="#boolean-and-operator-a-href-c7u6se40fjeh-id-c7u6se40fjeh-a" title="Link to this heading"></a></h3>
+<h3>Boolean AND operator. <span class="raw-html-m2r"><a href="#c7u6se40fjeh" id="c7u6se40fjeh"></a></span><a class="headerlink" href="#boolean-and-operator-a-href-c7u6se40fjeh-id-c7u6se40fjeh-a" title="Permalink to this heading"></a></h3>
 <p><strong>How to use AND operators to make your search more precise.</strong></p>
 <ul class="simple">
 <li><p>Require term(s) in your search using the plus prefix (+). This is the same as using the AND operator.</p>
@@ -217,7 +220,7 @@
 </ul>
 <figure><img src=".gitbook/assets/Slide17 (1).png" alt="The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype + WS ecotype” are highlighted to show how AND operators can be used to adjust the search results."><figcaption><p><em>The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype + WS ecotype” are highlighted to show how AND operators can be used to adjust the search results.</em></p></figcaption></figure></section>
 <section id="boolean-wild-card-operator-a-href-v28y5ignyqya-id-v28y5ignyqya-a">
-<h3>Boolean * wild card operator. <span class="raw-html-m2r"><a href="#v28y5ignyqya" id="v28y5ignyqya"></a></span><a class="headerlink" href="#boolean-wild-card-operator-a-href-v28y5ignyqya-id-v28y5ignyqya-a" title="Link to this heading"></a></h3>
+<h3>Boolean * wild card operator. <span class="raw-html-m2r"><a href="#v28y5ignyqya" id="v28y5ignyqya"></a></span><a class="headerlink" href="#boolean-wild-card-operator-a-href-v28y5ignyqya-id-v28y5ignyqya-a" title="Permalink to this heading"></a></h3>
 <p><strong>How to use a * wild card to find closely related studies.</strong></p>
 <ul class="simple">
 <li><p>Search on unspecified portions of the search terms using an asterisk (*)</p>
@@ -228,11 +231,11 @@
 </ul>
 <figure><img src=".gitbook/assets/Slide18 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype + * Gravity” is highlighted to show how unspecified “wild card” operators can be used to adjust the search result."><figcaption><p><em>The left-hand side of the webpage contains filters with a Booealn wild card operator being used to define the gravity level. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype + * Gravity” is highlighted to show how unspecified “wild card” operators can be used to adjust the search result.</em></p></figcaption></figure></section>
 </section>
-<section id="x20-a-href-alw6ircy431n-id-alw6ircy431n-a">
-
+<section id="a-href-alw6ircy431n-id-alw6ircy431n-a">
+<h2><span class="raw-html-m2r"><a href="#alw6ircy431n" id="alw6ircy431n"></a></span><a class="headerlink" href="#a-href-alw6ircy431n-id-alw6ircy431n-a" title="Permalink to this heading"></a></h2>
 </section>
 <section id="federating-data-sources-a-href-id-86tmuz33uzle-id-id-86tmuz33uzle-a">
-<h2>Federating data sources <span class="raw-html-m2r"><a href="#id-86tmuz33uzle" id="id-86tmuz33uzle"></a></span><a class="headerlink" href="#federating-data-sources-a-href-id-86tmuz33uzle-id-id-86tmuz33uzle-a" title="Link to this heading"></a></h2>
+<h2>Federating data sources <span class="raw-html-m2r"><a href="#id-86tmuz33uzle" id="id-86tmuz33uzle"></a></span><a class="headerlink" href="#federating-data-sources-a-href-id-86tmuz33uzle-id-id-86tmuz33uzle-a" title="Permalink to this heading"></a></h2>
 <p><strong>How to add an external database to your search.</strong></p>
 <p>OSDA has integrated, commonly termed a data federation, with multiple heterogeneous external databases. Users can search across multiple databases in addition to OSDA. The links in the federated search results are to the authoritative external databases.</p>
 <p>OSDA is currently federated with:</p>
@@ -252,9 +255,9 @@
 </ul>
 <figure><img src=".gitbook/assets/Slide19.png" alt="The chart shows the user which of the specific databases have been selected to be included in the general search filters. If the user does not have a specific database in mind GeneLab and ALSDA are automatically selected, these options can be left on or turned off or they can also add NIH GEO, EBI PRIDE and AML MG-RAST to search." width="563"><figcaption><p><em>The user can select specific databases to be included in the general search filters. If the user does not have a specific database in mind GeneLab and ALSDA are automatically selected, these options can be left on or turned off or they can also add NIH GEO, EBI PRIDE and AML MG-RAST to search.</em></p></figcaption></figure></section>
 <section id="study-search-filters-a-href-id-5dnlxovdz6up-id-id-5dnlxovdz6up-a">
-<h2>Study Search Filters <span class="raw-html-m2r"><a href="#id-5dnlxovdz6up" id="id-5dnlxovdz6up"></a></span><a class="headerlink" href="#study-search-filters-a-href-id-5dnlxovdz6up-id-id-5dnlxovdz6up-a" title="Link to this heading"></a></h2>
+<h2>Study Search Filters <span class="raw-html-m2r"><a href="#id-5dnlxovdz6up" id="id-5dnlxovdz6up"></a></span><a class="headerlink" href="#study-search-filters-a-href-id-5dnlxovdz6up-id-id-5dnlxovdz6up-a" title="Permalink to this heading"></a></h2>
 <p><strong>The filter box on the left can filter through the OSDR to find studies related to your expertise or interests.</strong></p>
-<p>In addition, OSDR offers filters that facilitate the search process for related studies within the GeneLab repository. These filters encompass Project Type, Factors, Organisms, and Assay Types. The menu associated with each category contains pre-populated terms derived from datasets included in the OSDR repository. It is noteworthy that the use of these filters is possible without the inclusion of any additional search terms.&amp;#x20;</p>
+<p>In addition, OSDR offers filters that facilitate the search process for related studies within the GeneLab repository. These filters encompass Project Type, Factors, Organisms, and Assay Types. The menu associated with each category contains pre-populated terms derived from datasets included in the OSDR repository. It is noteworthy that the use of these filters is possible without the inclusion of any additional search terms.</p>
 <ul class="simple">
 <li><p>After filter selection, the filter is immediately applied, potentially altering the number of search results displayed. Filter values are shown as text above the results as they are added. Multiple options from the same filter allow users to select more closely related studies.</p></li>
 <li><p>For instance, to filter your search, choose ‘Spaceflight’ from the ‘Factors’ menu, followed by ‘RNA sequencing (RNA-seq)’ and ‘Seedlings’ from the ‘Tissue’ menu. OSDR will search for studies that have either of these terms as factors.</p></li>
@@ -265,7 +268,8 @@
 </li>
 </ul>
 <figure><img src=".gitbook/assets/Slide20.png" alt="The Image shows a series of Filters grouped by Assay type, Organism, Tissue and Factor. Spaceflight, RNAseq, Plant and Seedling were selected."><figcaption><p><em>The Image shows a series of Filters grouped by Assay type, Organism, Tissue and Factor. Spaceflight, RNAseq, Plant and Seedling were selected.</em></p></figcaption></figure></section>
-<section id="x20-a-href-n2cdxvmjoiy1-id-n2cdxvmjoiy1-a">
+<section id="a-href-n2cdxvmjoiy1-id-n2cdxvmjoiy1-a">
+<h2><span class="raw-html-m2r"><a href="#n2cdxvmjoiy1" id="n2cdxvmjoiy1"></a></span><a class="headerlink" href="#a-href-n2cdxvmjoiy1-id-n2cdxvmjoiy1-a" title="Permalink to this heading"></a></h2>
 </section>
 </section>
 
