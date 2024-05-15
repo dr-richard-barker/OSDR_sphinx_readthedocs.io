@@ -161,7 +161,7 @@ Boolean NOT operator. :raw-html-m2r:`<a href="#w4aeta4y960m" id="w4aeta4y960m"><
 
 .. raw:: html
 
-   <figure><img src=".gitbook/assets/Slide16 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results."><figcaption><p><em>The left-hand side of the webpage contains the "genoe ecotype - genotypes" search results. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results.</em></p></figcaption></figure>
+   <figure><img src=".gitbook/assets/Slide16 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results."><figcaption><p><em>The left-hand side of the webpage contains the "genome ecotype - genotypes" search results. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results.</em></p></figcaption></figure>
 
 
 Boolean AND operator. :raw-html-m2r:`<a href="#c7u6se40fjeh" id="c7u6se40fjeh"></a>`
