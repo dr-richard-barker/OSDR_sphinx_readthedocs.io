@@ -88,7 +88,7 @@ Instruction on how to create a NASA Guest account to access the BDME :raw-html-m
 #. Log in using your email address and password. ** If you forgot your password please select the “Reset Password “ option.*
 #. Or if you have one use your NASA account to automatically log in.
 #. In the access LaunchPad page, select Agency User ID. Then use your registered email address as the Agency User ID and the password that you just created.
-#. The\ ` OSDR data submission console <https://osdr.nasa.gov/bio/submission/console>`_ will open and provide access to tools to help you submit your data.
+#. The\ ` OSDR data submission console <https://osdr.nasa.gov/bio/submission/console> will open and provide access to tools to help you submit your data.
 
 
 .. raw:: html
