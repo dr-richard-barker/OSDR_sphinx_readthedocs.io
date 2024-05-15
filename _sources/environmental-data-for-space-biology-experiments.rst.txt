@@ -17,7 +17,7 @@ Environmental Data for Space Biology Rodent Research
 The Environmental Data Application (EDA App) :raw-html-m2r:`<a href="#fu5jvh1nxmbu" id="fu5jvh1nxmbu"></a>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-{% embed url="https://visualization.osdr.nasa.gov/eda/" %}
+{"https://visualization.osdr.nasa.gov/eda/"}
 
 The Environmental Data Application (EDA) provides users with convenient access to valuable data collected during the Rodent research missions. The application facilitates the exploration and analysis of this scientific data, offering a comprehensive view of the mission details, telemetry information, and relevant radiation-related metadata.
 

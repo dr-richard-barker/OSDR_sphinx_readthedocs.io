@@ -5,7 +5,7 @@ NASA Biological Institutional Scientific Collection (NBISC)
 ===========================================================
 
 
-=
+
 
 What Biospecimens and Materials are available?
 ----------------------------------------------
@@ -64,11 +64,11 @@ Ongoing studies carried out by NASA's Human Research Program (HRP) generate a co
 
 Search for specific types of biospecimen
 
-{% embed url="https://nlsp.nasa.gov/search/" %}
+="https://nlsp.nasa.gov/search/"
 
 Explore biospecimens options
 
-{% embed url="https://nlsp.nasa.gov/explore/mtable/lsda_biospecimen/lsda_biospecimen" %}
+
 `https://nlsp.nasa.gov/explore/mtable/lsda\_biospecimen/lsda\_biospecimen <https://nlsp.nasa.gov/explore/mtable/lsda\_biospecimen/lsda\_biospecimen>`_
 {% endembed %}
 

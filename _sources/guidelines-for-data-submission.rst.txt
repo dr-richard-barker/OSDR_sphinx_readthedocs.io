@@ -14,7 +14,7 @@ Data Submission Guide
 `Summary of guidelines for Data Submission to OSDR <https://genelab.nasa.gov/guidelines-data-submission-osdr>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-{% embed url="https://genelab.nasa.gov/guidelines-data-submission-osdr" %}
+{="https://genelab.nasa.gov/guidelines-data-submission-osdr"}
 Welcome to the Open Science Data Repository (ODSR)!&#x20;
 {% endembed %}
 
@@ -57,11 +57,11 @@ Below you will find a sample-level metadata template and assay-level metadata te
 * `General Study and Sample-Level Metadata Templates <https://drive.google.com/drive/folders/1fbv9EI58PGRDByqZTNMsS-92850VbxKE>`_
 * `Assay Specific Metadata Templates <https://drive.google.com/drive/folders/1wETFFf4MVoyGToAdmDh1nP7laNTKZvtt>`_
 
-{% embed url="https://drive.google.com/drive/folders/1wETFFf4MVoyGToAdmDh1nP7laNTKZvtt" %}
+{"https://drive.google.com/drive/folders/1wETFFf4MVoyGToAdmDh1nP7laNTKZvtt"}
 
 When possible, please use common acronyms as defined on the `OSDR Abbreviations Page <https://genelab.nasa.gov/sites/default/files/2024-01/OSKB-OpenScienceAbbreviations-020124-0900-2\_1.pdf>`_. If your data has acronyms, scientific terms, or column names that need to be defined, please include a data dictionary. An example data dictionary can be found in dataset `OSD-618 <https://osdr.nasa.gov/bio/repo/data/studies/OSD-618>`_ (Files > Novel Object Recognition > Data Dictionary Files).
 
-{% embed url="https://genelab.nasa.gov/sites/default/files/2024-01/OSKB-OpenScienceAbbreviations-020124-0900-2_1.pdf" %}
+{"https://genelab.nasa.gov/sites/default/files/2024-01/OSKB-OpenScienceAbbreviations-020124-0900-2_1.pdf"}
 
 `Data Submission Portal <https://osdr.nasa.gov/bio/submission-sso-login.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -76,7 +76,7 @@ Instruction on how to create a NASA Guest account to access the BDME :raw-html-m
 
 #. Go to Biological Data Management Environment (\ `BDME <https://osdr.nasa.gov/bio/submission-sso-login.html>`_\ ), (or `Workspace <https://osdr.nasa.gov/bio/workspace-sso-login.html>`_\ ).
 
-{% embed url="https://osdr.nasa.gov/bio/submission-sso-login.html" %}
+{"https://osdr.nasa.gov/bio/submission-sso-login.html"}
 
 
 #. Create a new account./ If you already have an account login.
@@ -88,7 +88,7 @@ Instruction on how to create a NASA Guest account to access the BDME :raw-html-m
 #. Log in using your email address and password. ** If you forgot your password please select the “Reset Password “ option.*
 #. Or if you have one use your NASA account to automatically log in.
 #. In the access LaunchPad page, select Agency User ID. Then use your registered email address as the Agency User ID and the password that you just created.
-#. The\ ` OSDR data submission console <https://osdr.nasa.gov/bio/submission/console>`_ will open and provide access to tools to help you submit your data.
+#. The\ ` OSDR data submission console <https://osdr.nasa.gov/bio/submission/console> will open and provide access to tools to help you submit your data.
 
 
 .. raw:: html
@@ -104,13 +104,13 @@ OSDR submission console
 
 Logging into your OSDR submission console allows you to see what studies you have previously loaded &#x20;
 
-{% embed url="https://osdr.nasa.gov/bio/submission/console" %}
+{"https://osdr.nasa.gov/bio/submission/console"}
 
 
 #. When you see "My Studies" page, you have logged into BDME successfully.
 #. More detailed `instructions can be found here <https://genelab.nasa.gov/sites/default/files/2024-01/INSTRUCTIONS%20ON%20CREATING%20A%20NASA%20GUEST%20ACCOUNT%20TO%20ACCESS%20BDME.docx\_3.pdf>`_
 
-{% embed url="https://genelab.nasa.gov/sites/default/files/2024-01/INSTRUCTIONS%20ON%20CREATING%20A%20NASA%20GUEST%20ACCOUNT%20TO%20ACCESS%20BDME.docx_3.pdf" %}
+{"https://genelab.nasa.gov/sites/default/files/2024-01/INSTRUCTIONS%20ON%20CREATING%20A%20NASA%20GUEST%20ACCOUNT%20TO%20ACCESS%20BDME.docx_3.pdf"}
 
 Features of the data submission console: :raw-html-m2r:`<a href="#upth8phtyd15" id="upth8phtyd15"></a>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -140,7 +140,7 @@ Biological Data Management Environment (BDME) Tutorial :raw-html-m2r:`<a href="#
 
 **To create a study use the following instructions (**\ `BDME data submission tutorial <https://genelab.nasa.gov/sites/default/files/2024-01/BDME%20Tutorial\_v3\_noLoginInfo.pdf>`_\ **)**
 
-{% embed url="https://genelab.nasa.gov/sites/default/files/2024-01/BDME%20Tutorial_v3_noLoginInfo.pdf" %}
+{"https://genelab.nasa.gov/sites/default/files/2024-01/BDME%20Tutorial_v3_noLoginInfo.pdf"}
 
 How to create a new OSDR repository :raw-html-m2r:`<a href="#ltsxld960tlt" id="ltsxld960tlt"></a>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

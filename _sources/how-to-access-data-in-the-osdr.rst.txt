@@ -2,13 +2,6 @@
    :format: html
 
 
-----
-
-description: >-
-  The OSDR data repository contains lots of information and data from the Space
-
-  Biology research community.
------------------------------
 
 Access data in the OSDR
 =======================
@@ -17,7 +10,7 @@ Access data in the OSDR
 #. Go to the **NASA OSDR** `home page <https://osdr.nasa.gov/bio/index.html>`_.
 #. Click on the **"Data & Tools"** tab at the top of the page
 
-*or click on the* `\ *Data Repository Explo* <https://osdr.nasa.gov/bio/repo/search?q=\&data\_source=cgene,alsda\&data\_type=study>`_\ *re Image*\ &#x20;
+*or click on the* `\ *Data Repository Explo* <https://osdr.nasa.gov/bio/repo/search?q=\&data\_source=cgene,alsda\&data\_type=study>`_\ *re Image*\ 
 
 
 .. raw:: html
@@ -33,13 +26,6 @@ Access data in the OSDR
 #. On the left of the webpage, you will see some filters to help you identify related studies, select any combination of study features by ‘checking the boxes’ and this will change the number of studies being shown on the screen.
 #. Each study is summarized by an image representing the model organism being investigated, the study title, organism, factors being investigated, assay types, release date, a description and a “Highlights”/ summary.
 #. Clicking on either the image of the model organism or the title will open that study database and present the related metadata, primary data and if available processed data.
-
-
-.. raw:: html
-
-   <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><em>The Open Science Data Repository search interface allows users to search, filter, and view search results, including titles, organisms, factors, descriptions, and experiment details. (1) This interface can be launched from the "Data &#x26; tools" search. (2) Search datasets, (3) select the number of studies on the page, (4). The Sort by options are set to release date and are highlighted red.  (5)  The General search Filter table . (6) The icon depicting the model organism is a link to more data about the study. (7) The title is a link to more data about the study.</em> </p></figcaption></figure>
-
-
 
 .. raw:: html
 
@@ -108,7 +94,7 @@ Multi-word search :raw-html-m2r:`<a href="#u3geep5fcd5d" id="u3geep5fcd5d"></a>`
    <figure><img src=".gitbook/assets/Slide13 (2).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. This search identifies 14 studies that use these terms in their metadata."><figcaption><p>The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the term “genome ecotype” has been entered. This search identifies 14 studies that use these terms in their metadata.</p></figcaption></figure>
 
 
-&#x20;\ :raw-html-m2r:`<a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a>`
+\ :raw-html-m2r:`<a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Multiple-field searches :raw-html-m2r:`<a href="#yo5jgk217hqz" id="yo5jgk217hqz"></a>`
@@ -147,7 +133,7 @@ The resulting set is the same as searching for the terms ‘genome’ and ‘eco
 
 * If multiple words are in double quotations, then those words must match exactly in the order given, as shown below:
 
-  * **Quotation example:** Search results from searching the exact term “genome ecotype” by using quotation marks. In this example, no search results were due to a combination of keywords and Boolean operators that failed to match any sample in the database.&#x20;
+  * **Quotation example:** Search results from searching the exact term “genome ecotype” by using quotation marks. In this example, no search results were due to a combination of keywords and Boolean operators that failed to match any sample in the database.
 
 
 .. raw:: html
@@ -168,7 +154,7 @@ Boolean NOT operator. :raw-html-m2r:`<a href="#w4aeta4y960m" id="w4aeta4y960m"><
 
 .. raw:: html
 
-   <figure><img src=".gitbook/assets/Slide16 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results."><figcaption><p><em>The left-hand side of the webpage contains the "genoe ecotype - genotypes" search results. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results.</em></p></figcaption></figure>
+   <figure><img src=".gitbook/assets/Slide16 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results."><figcaption><p><em>The left-hand side of the webpage contains the "genome ecotype - genotypes" search results. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype - genotypes” are highlighted to show how Not operators can be used to adjust the search results.</em></p></figcaption></figure>
 
 
 Boolean AND operator. :raw-html-m2r:`<a href="#c7u6se40fjeh" id="c7u6se40fjeh"></a>`
@@ -203,7 +189,7 @@ Boolean * wild card operator. :raw-html-m2r:`<a href="#v28y5ignyqya" id="v28y5ig
    <figure><img src=".gitbook/assets/Slide18 (1).png" alt="The NASA logo, website navigation menu, and page title are displayed in the header section. The left-hand side of the webpage contains the filters mentioned previously. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype + * Gravity” is highlighted to show how unspecified “wild card” operators can be used to adjust the search result."><figcaption><p><em>The left-hand side of the webpage contains filters with a Booealn wild card operator being used to define the gravity level. In the center of the page the “Search Datasets” box has been highlighted, and the terms “genome ecotype + * Gravity” is highlighted to show how unspecified “wild card” operators can be used to adjust the search result.</em></p></figcaption></figure>
 
 
-&#x20;\ :raw-html-m2r:`<a href="#alw6ircy431n" id="alw6ircy431n"></a>`
+\ :raw-html-m2r:`<a href="#alw6ircy431n" id="alw6ircy431n"></a>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Federating data sources :raw-html-m2r:`<a href="#id-86tmuz33uzle" id="id-86tmuz33uzle"></a>`
@@ -240,7 +226,7 @@ Study Search Filters :raw-html-m2r:`<a href="#id-5dnlxovdz6up" id="id-5dnlxovdz6
 
 **The filter box on the left can filter through the OSDR to find studies related to your expertise or interests.**
 
-In addition, OSDR offers filters that facilitate the search process for related studies within the GeneLab repository. These filters encompass Project Type, Factors, Organisms, and Assay Types. The menu associated with each category contains pre-populated terms derived from datasets included in the OSDR repository. It is noteworthy that the use of these filters is possible without the inclusion of any additional search terms.&#x20;
+In addition, OSDR offers filters that facilitate the search process for related studies within the GeneLab repository. These filters encompass Project Type, Factors, Organisms, and Assay Types. The menu associated with each category contains pre-populated terms derived from datasets included in the OSDR repository. It is noteworthy that the use of these filters is possible without the inclusion of any additional search terms.
 
 
 * After filter selection, the filter is immediately applied, potentially altering the number of search results displayed. Filter values are shown as text above the results as they are added. Multiple options from the same filter allow users to select more closely related studies.
@@ -255,5 +241,5 @@ In addition, OSDR offers filters that facilitate the search process for related 
    <figure><img src=".gitbook/assets/Slide20.png" alt="The Image shows a series of Filters grouped by Assay type, Organism, Tissue and Factor. Spaceflight, RNAseq, Plant and Seedling were selected."><figcaption><p><em>The Image shows a series of Filters grouped by Assay type, Organism, Tissue and Factor. Spaceflight, RNAseq, Plant and Seedling were selected.</em></p></figcaption></figure>
 
 
-&#x20;\ :raw-html-m2r:`<a href="#n2cdxvmjoiy1" id="n2cdxvmjoiy1"></a>`
+\ :raw-html-m2r:`<a href="#n2cdxvmjoiy1" id="n2cdxvmjoiy1"></a>`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

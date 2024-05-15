@@ -20,8 +20,8 @@ Contents
    Home <self>
    Intro
    Introduction
+   nasa-osdr-home-page
    how-to-access-data-in-the-osdr
-   single-study-data-visualization
    guidelines-for-data-submission
    osdr-public-api
    osdr-data-visualization-portal
@@ -29,5 +29,3 @@ Contents
    radlab-overview
    nasa-biological-institutional-scientific-collection-nbisc
    open-science-abbreviations
-   SUMMARY
-   README

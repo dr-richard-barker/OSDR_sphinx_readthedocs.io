@@ -6,12 +6,12 @@ NASA OSDR home page
 ===================
 
 Home page: `https://osdr.nasa.gov/bio/ <https://osdr.nasa.gov/bio/>`_
-{% endembed %}
+
 
 Explore the OSDR home page
 --------------------------
 
-Welcome to our homepage! Here's what you'll find:
+Welcome to our homepage! Here's what you'll find if you scroll down:
 
 
 * **Latest Data Releases**\ : Stay up-to-date with new data.
@@ -163,7 +163,6 @@ Citizen science:
 
 `\ **SOLSTICE Members and Affiliations:** <https://osdr.nasa.gov/bio/awg/solstice-members.html>`_ This page lists the SOLSTICE members and their affiliations. Similar to the AWG members page, it provides information on the individuals involved in the SOLSTICE project, showcasing the diverse backgrounds and expertise of the participants.
 
-`\ :raw-html-m2r:`<a href="#id-564cno4mscup" id="id-564cno4mscup"></a>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Help :raw-html-m2r:`<a href="#lp2etw388rfz" id="lp2etw388rfz"></a>`
